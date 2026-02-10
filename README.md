@@ -1,7 +1,7 @@
 # interfaces
 
-(lista)[]
-()[]
+[lista]()
+
 
 # parcial 1 - QT framework
 # parcial 2 - Electron
