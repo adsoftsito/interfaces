@@ -5,3 +5,4 @@
 
 # open-spec 
 [hello world](https://docs.google.com/presentation/d/1l9ewzYiQ98w0yl0umrwdYQ_wksrGyUhwyPqsDtcPJ10/edit?usp=sharing)
+[cv lab](https://docs.google.com/presentation/d/1zbHm1w3BGARUrW762E3f7e8C0RHUOIlCUddvk8wvgIY/edit?usp=sharing)
