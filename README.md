@@ -8,3 +8,9 @@
 ## [cv lab](https://docs.google.com/presentation/d/1zbHm1w3BGARUrW762E3f7e8C0RHUOIlCUddvk8wvgIY/edit?usp=sharing)
 ## [firestore](https://docs.google.com/presentation/d/1WmTNnYgYZJEzvMOMTjMCC3Vc-H7Op11DN0WLcz7SuHo/edit?usp=sharing)
 ## [issues](https://docs.google.com/presentation/d/18m7vSBi1kiQK-m-0BQ1H-fZnETgh80A6tdUs6VEa5lA/edit?usp=sharing)
+
+# lecturas adicionales
+## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
+## [day1](https://drive.google.com/file/d/1BM5l4umIBe5QV1VtKaDCEjWPMM78yWZr/view?usp=sharing)
+## [day2](https://drive.google.com/file/d/1CcvTu7Q83WUmqYwyTwYjMt9atfctCCiJ/view?usp=sharing)
+
