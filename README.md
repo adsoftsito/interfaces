@@ -9,6 +9,9 @@
 ## [firestore](https://docs.google.com/presentation/d/1WmTNnYgYZJEzvMOMTjMCC3Vc-H7Op11DN0WLcz7SuHo/edit?usp=sharing)
 ## [issues](https://docs.google.com/presentation/d/18m7vSBi1kiQK-m-0BQ1H-fZnETgh80A6tdUs6VEa5lA/edit?usp=sharing)
 
+# copilot
+## [copilot agent](https://docs.google.com/presentation/d/1FL6YMybeoheg5EntB79vJoF3ERzil_XByCSdzh0axD4/edit?usp=sharing)
+
 # lecturas adicionales
 ## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
 ## [slides-day1 ](https://drive.google.com/file/d/1BM5l4umIBe5QV1VtKaDCEjWPMM78yWZr/view?usp=sharing)[video](https://www.youtube.com/live/uRzoVP63RiI)
