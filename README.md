@@ -19,3 +19,5 @@
 ## [slides-day3 ](https://drive.google.com/file/d/1YYj_bf1pwbK68Qn1F1XeSxFF1wweaIMR/view?usp=sharing)[video](https://www.youtube.com/live/0DhghJpWwVQ)
 
 
+# proyecto final
+[rubrica](https://docs.google.com/presentation/d/1HiV7FlZHdPtYD5gkaXYSDid76VnQI7XWcdYLvDcDGlU/edit?usp=sharing)
