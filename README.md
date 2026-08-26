@@ -7,6 +7,16 @@
   
 # open-spec 
 ## [hello world](https://docs.google.com/presentation/d/1l9ewzYiQ98w0yl0umrwdYQ_wksrGyUhwyPqsDtcPJ10/edit?usp=sharing)
+
+# Curso basico de Angular 
+## [Day 1](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T1.pdf)
+## [Day 2](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T2.pdf)
+## [Day 3](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T3.pdf)
+## [Day 4](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T4.pdf)
+## [Day 5](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T5.pdf)
+
+
+
 # lecturas adicionales
 ## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
 ## [slides-day1 ](https://drive.google.com/file/d/1BM5l4umIBe5QV1VtKaDCEjWPMM78yWZr/view?usp=sharing)[video](https://www.youtube.com/live/uRzoVP63RiI)
