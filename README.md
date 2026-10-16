@@ -15,6 +15,12 @@
 ## [Day 4](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T4.pdf)
 ## [Day 5](https://github.com/adsoftsito/database/blob/main/FS_angular_AdolfoCenteno_T5.pdf)
 
+# flutter - tareas 
+## [firebase](https://github.com/adsoftsito/interfaces/blob/main/flutter/firebase.pdf)
+## [maps](https://github.com/adsoftsito/interfaces/blob/main/flutter/maps.pdf)
+## [camara](https://github.com/adsoftsito/interfaces/blob/main/flutter/camera.pdf)
+
+
 
 
 # lecturas adicionales
